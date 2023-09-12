@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="total">Total</string>
+    <string name="_0_0">$0.0</string>
+    <string name="_0_01">$0.0</string>
+    <string name="name">Name</string>
+    <string name="name2">Name</string>
+    <string name="repair_order">Repair Order</string>
+    <string name="textview">TextView</string>
+    <string name="technitian">Technitian</string>
+    <string name="paint">Paint</string>
+    <string name="parts">Parts</string>
+    <string name="labor">Labor</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Tax</string>
+    <string name="name4">Name</string>
+    <string name="name6">Name</string>
+    <string name="name8">Name</string>
+    <string name="name9">Name</string>
+    <string name="_0_05">$0.0</string>
+    <string name="inspection">Inspection</string>
+    <string name="submit">Submit</string>
 </resources>
